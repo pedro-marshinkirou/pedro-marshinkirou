@@ -21,7 +21,11 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="http://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" alt="expo" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://pt-br.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="40" height="40"/> </a>
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg" alt="axios" width="40" height="40"/> </a>
 
 <p><img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-marshinkirou&show_icons=true&hide_border=true&locale=en&layout=compact&theme=tokyonight" alt="pedro-marshinkirou" /></p>
 
